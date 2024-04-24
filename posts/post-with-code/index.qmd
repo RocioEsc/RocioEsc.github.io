@@ -1,0 +1,9 @@
+---
+title: "Modeling of the Mendoza river watershed"
+author: "Rocio Escobar"
+date: "2024-04-24"
+categories: [analysis, gis]
+image: "image.jpg"
+---
+
+This was a model of the Mendoza river watershed. You can find the article [here](<https://www.sciencedirect.com/science/article/abs/pii/S1462901114000148>){target="\_blank"}

@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Rocio Escobar"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/RocioEsc
+      - icon: linkedin
+        href: https://linkedin.com/in/rocioescobar
+format:
+  html:
+    theme: yeti
+    css: styles.css
+
+editor: visual
+

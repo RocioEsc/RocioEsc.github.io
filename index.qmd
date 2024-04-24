@@ -1,0 +1,17 @@
+---
+title: "Rocio Escobar"
+image: profile.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/rocioescobar
+    - icon: github
+      text: Github
+      href: https://github.com/RocioEsc
+---
+
+GIS analyst
+
+Rocío Escobar is an experienced GIS Analyst at the World Health Organization in Geneva, Switzerland, where she has been refining her expertise in geographic information systems since June 2014.
